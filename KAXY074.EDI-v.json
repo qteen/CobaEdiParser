@@ -1,0 +1,40 @@
+{
+   "interchangeHeader": {
+      "syntax": {
+         "syntaxIdentifier": "UNOA",
+         "syntaxVersionNumber": "1"
+      },
+      "interchangeSender": {
+         "senderIdentification": "SSL"
+      },
+      "interchangeRecipient": {
+         "recipientIdentification": "TPKS"
+      },
+      "datetimeOfPreparation": {
+         "dateOfPreparation": "160311",
+         "timeOfPreparation": "0923"
+      },
+      "interchangeControlReference": "KWG16031109235"
+   },
+   "messageHeader": {
+      "messageReferenceNumber": "KWG16031109235",
+      "messageIdentifier": {
+         "messageTypeIdentifier": "BAPLIE",
+         "messageTypeVersionNumber": "1",
+         "messageTypeReleaseNumber": "911",
+         "controllingAgency": "UN",
+         "associationAssignedCode": "SMDG15"
+      }
+   },
+   "beginningOfMessage": {
+      "messageIdentification": {
+         "documentIdentifier": "GNCBAPLIE15KWG"
+      },
+      "messageFunctionCode": "9"
+   },
+   "datetime": {
+      "functionCodeQualifier": "137",
+      "text": "1603110923",
+      "format": "201"
+   }
+}

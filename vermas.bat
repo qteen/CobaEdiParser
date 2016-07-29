@@ -1,0 +1,1 @@
+node index.js -i KAXY074.EDI -s vermas -o KAXY074.EDI-v.json --pretty
